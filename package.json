@@ -1,11 +1,13 @@
 {
   "name": "night-wave",
+  "icon": "assets/icon.png",
   "displayName": "Night Wave Theme",
   "description": "A theme that features a calming blend of cool blues, refreshing minty greens, and soft purples, creating a serene and focused atmosphere for your workspace.",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "publisher": "raykavin",
   "repository": {
-    "directory": "https://github.com/raykavin/night-wave"
+    "type": "git",
+    "url": "https://github.com/raykavin/night-wave"
   },
   "engines": {
     "vscode": "^1.92.0"
